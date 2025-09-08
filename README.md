@@ -32,6 +32,9 @@ Full-Stack developer
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
+<a href="https://oauth.net/2/" target="_blank" rel="noreferrer">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2982989486583963627_0" width="36" height="36" alt="OAuth" />
+</a>
 </p>
 
 
